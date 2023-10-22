@@ -1,5 +1,3 @@
-Sure, here's an enhanced version of the README file with emojis and a gift image:
-
 # Email Marketing with MailChimp  🚀📧
 
 ## Introduction
